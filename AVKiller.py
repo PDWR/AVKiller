@@ -112,7 +112,7 @@ def killav():
 
  #--------------清理图片痕迹--------------
 def clean():
-    popen(r'del /q {} {} {} {} {} {}'.format(logoutImage, logoImage, comfireImage, screen_before, screen_logout, screen_logout))
+    popen(r'del /q {} {} {} {} {} {}'.format(logoutImage, logoImage, comfireImage, screen_before, screen_logout, screen_comfire))
 
 
 def main():
