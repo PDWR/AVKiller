@@ -98,6 +98,6 @@ Win+B，再按一下空格键或者回车键
 这个不会，因为opencv识别时的SourceImage和TargetImage大小差别太大不能识别
 
 ### 6. 图片展示
-![markdown](https://github.com/PDWR/AVKiller/blob/master/images/360.gif "关闭360")
-![markdown](https://github.com/PDWR/AVKiller/blob/master/images/txgj.gif "关闭腾讯管家")
-![markdown](https://github.com/PDWR/AVKiller/blob/master/images/hr.gif "关闭火绒")
+![image](https://github.com/PDWR/AVKiller/blob/master/images/360.gif "关闭360")
+![image](https://github.com/PDWR/AVKiller/blob/master/images/txgj.gif "关闭腾讯管家")
+![image](https://github.com/PDWR/AVKiller/blob/master/images/hr.gif "关闭火绒")
