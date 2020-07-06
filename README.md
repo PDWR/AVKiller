@@ -12,6 +12,11 @@
 ### 原理以及在代码里的注释已经写得比较详尽了，如果还有问题的话，请issue提问，喜欢的话，请不要吝啬给个star！！！
 
 
+### 运行图
+![image](https://github.com/PDWR/AVKiller/blob/master/images/3607-6.gif "关闭&伪造360")
+![image](https://github.com/PDWR/AVKiller/blob/master/images/hr7-6.gif "关闭&伪造火绒")
+![image](https://github.com/PDWR/AVKiller/blob/master/images/txgj7-6.gif "关闭&伪造腾讯管家")
+
 ## 利用图形化识别技术快速关闭目标机器上的杀毒软件
 
 
