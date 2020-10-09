@@ -1,3 +1,3 @@
-pyaotugui
+pyautugui
 base64
 opencv-python
