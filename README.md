@@ -121,3 +121,9 @@ Win+B，再按一下空格键或者回车键
 ![image](https://github.com/PDWR/AVKiller/blob/master/images/360.gif "关闭360")
 ![image](https://github.com/PDWR/AVKiller/blob/master/images/txgj.gif "关闭腾讯管家")
 ![image](https://github.com/PDWR/AVKiller/blob/master/images/hr.gif "关闭火绒")
+
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/PDWR/AVkiller.svg)](https://starchart.cc/PDWR/AVkiller)
